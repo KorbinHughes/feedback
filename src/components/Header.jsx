@@ -12,7 +12,7 @@ function Header({ text, bgColor, textColor }) {
   );
 }
 Header.defaultProps = {
-  text: "salam amoo joon chetori? vaght kame bejonb",
+  text: "Hootan joon ziaad shakh nasho baradar",
   bgColor: "rgba(0,0,0,.4)",
   textColor: "#ff6a95",
 };
