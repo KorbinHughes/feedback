@@ -8,7 +8,8 @@ function AboutPage() {
         <h1>about project</h1>
         <p>
           uncle khashi one of the best creative web developers around the world
-          has built this feedback app , share your feedback w me!
+          has built this feedback app , share your feedback w me! HOOOOTAN IN
+          PAYAM BARAYE TOE BE HICH ONVAN SHAKH NASHO
         </p>
         <p>Version: 1.0.0</p>
         <p>
